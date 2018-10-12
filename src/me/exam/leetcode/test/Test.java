@@ -5,7 +5,7 @@ import me.exam.leetcode.*;
 public class Test {
 
     public static void main(String[]args){
-       new Q5().test();
+       new Q7().test();
     }
 
 }
